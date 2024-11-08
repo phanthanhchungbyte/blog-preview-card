@@ -75,7 +75,7 @@ body {
 
     p {
       margin-left: 1rem;
-      font-family: 'Figtree-ExtraBold';
+      font-family: 'Figtree-ExtraBold', sans-serif;
     }
   }
 }
