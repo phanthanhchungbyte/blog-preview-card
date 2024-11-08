@@ -19,7 +19,7 @@ body {
   .card {
     background-color: white;
     width: 20%;
-    min-width: 300px;
+    min-width: 330px;
     position: absolute;
     left: 50%;
     top: 50%;
